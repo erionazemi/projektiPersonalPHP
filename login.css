@@ -6,13 +6,12 @@
 
 
 body {
+    background-image: url(images/doctor.jpg);
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(img/airplane.jpg);
-
 }
 
 

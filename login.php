@@ -23,9 +23,11 @@
                 <label for="password">Password</label>
                 <input type="password" id="password" name="password" placeholder="Enter your password" required>
             </div>
+
+            <small>Dont have an account? <a href="signup.php">Sign Up</a></small>
             
             <button>
-                <a href="home.html">Login</a>
+                <a href="home.php">Login</a>
             </button>
             
         </form>
